@@ -9,13 +9,13 @@
     height: 4100px;
 }
 #top{
-    background: url(../imanges/top.jpg) center no-repeat;
+/*     background: url(../imanges/top.jpg) center no-repeat; */
     width: 100%;
     height: 450px;
 }
 #center{
-    background: url(../imanges/center.jpg) center no-repeat;
-    background-attachment: fixed;
+/*     background: url(../imanges/center.jpg) center no-repeat; */
+/*     background-attachment: fixed; */
     width: 90%;
     height: 3500px;
     margin-left: 5%;
