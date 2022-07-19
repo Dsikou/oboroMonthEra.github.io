@@ -15,7 +15,7 @@
 }
 #center{
     background: url(../imanges/center.jpg) center no-repeat;
-    /*background-attachment: fixed;*/
+    background-attachment: fixed;
     width: 90%;
     height: 3500px;
     margin-left: 5%;
