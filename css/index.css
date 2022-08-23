@@ -9,7 +9,8 @@
     height: 4100px;
 }
 #top{
-    background: url(../imanges/top.jpg) center no-repeat;
+    /*background: url(../imanges/top.jpg) center no-repeat; */
+    background: #f07c82;
     width: 100%;
     height: 450px;
 }
@@ -33,7 +34,7 @@
     margin-left: 5%;
 }
 #bottom{
-    background: #68868b;
+    background: #74759b;
     width: 100%;
     height: 150px;
 }
