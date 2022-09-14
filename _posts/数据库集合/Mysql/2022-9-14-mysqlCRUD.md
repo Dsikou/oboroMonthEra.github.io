@@ -8,7 +8,7 @@
   - update 表名 set 字段=值 where 筛选条件；
 - **查询**
   - select 字段名 from 表名 where 筛选条件；
-    ***
+***
 - **sql执行顺序**
 1. from表1别名
 2. 连接类型join表2
